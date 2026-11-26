@@ -136,3 +136,19 @@ http://190.93.224.42/LIGA-1-MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="MovistarDeportes.pe@SD" tvg-logo="https://i.imgur.com/Zt3iE86.png" group-title="Deportes 【entity-ESPN¦canonical_name=ESPN】",Movistar Deportes (1080p)
 http://195.178.110.110/movistar/index.m3u8
+
+#EXTINF:-1 tvg-id="【entity-ATV¦canonical_name=ATV】.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/1920px-ATV_Peru_2025.svg.png" group-title="Perú" referrer="https://www.atv.pe/",【entity-ATV¦canonical_name=ATV】 1
+#EXTVLCOPT:http-referrer=https://www.atv.pe/
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="【entity-ATV¦canonical_name=ATV】.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/1920px-ATV_Peru_2025.svg.png" group-title="Perú",【entity-ATV¦canonical_name=ATV】 2 (720p)
+http://187.102.210.46/ATV/index.m3u8
+
+#EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/1920px-ATV_Peru_2025.svg.png" group-title="Perú",【entity-ATV¦canonical_name=ATV】 3 (720p)
+https://d2b5h5wyivfnfl.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="【entity-ATV¦canonical_name=ATV】.pe@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/1920px-ATV_Peru_2025.svg.png" group-title="Perú",ATV 4 (720p)
+https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/1920px-ATV_Peru_2025.svg.png" group-title="Perú",ATV 5 (1080p)
+http://190.93.224.42/ATV/index.m3u8
